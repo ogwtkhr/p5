@@ -1,0 +1,19 @@
+{
+  "name": "p5js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ogwtkhr <color_me_pop@live.jp>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack"
+  },
+  "dependencies": {
+    "p5": "^0.8.0"
+  },
+  "devDependencies": {
+    "ts-loader": "^5.4.3",
+    "typescript": "^3.4.5",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  }
+}
